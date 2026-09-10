@@ -1,4 +1,4 @@
-# Olá, eu sou Anna Clara 👋
+# Olá, eu sou Anna Clara
 
 ### Estudante de Engenharia de Software | Desenvolvedora BackEnd em formação
 
@@ -10,23 +10,24 @@ Meu objetivo é transformar conhecimento em projetos reais, escrever código org
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-* 🎓 Estudante de **Engenharia de Software no P2**
-* 💻 Foco em **Backend Development**
-* ☕ Estudando e desenvolvendo aplicações com **Java**
-* 🐍 Experiência acadêmica e prática com **Python**
-* 🌐 Desenvolvimento de **REST APIs**
-* 🗄️ Estudando **SQL e bancos de dados relacionais**
-* 🔐 Interesse em **Application Security, Authentication e Authorization**
-* 🧠 Praticando **Data Structures, Algorithms e Object-Oriented Programming**
-* 🔧 Utilizando **Git e GitHub** para versionamento e colaboração
-* 🐳 Explorando **Docker** e ambientes de desenvolvimento
-* 📚 Em constante evolução em **Software Engineering e Backend Development**
+*  Estudante de **Engenharia de Software no P2**
+*  Foco em **Backend Development**
+*  Estudando e desenvolvendo aplicações com **Java**
+*  Experiência acadêmica e prática com **Python**
+*  Desenvolvimento de **REST APIs**
+*  Estudando **SQL e bancos de dados relacionais**
+*  Interesse em **Application Security, Authentication e Authorization**
+*  Praticando **Data Structures, Algorithms e Object-Oriented Programming**
+*  Utilizando **Git e GitHub** para versionamento e colaboração
+*  Explorando **Docker** e ambientes de desenvolvimento
+*  Tenho um grande interesse em cybersecurity, começarei uma graduação em breve
+*  Em constante evolução em **Software Engineering e Backend Development**
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## Tecnologias e conhecimentos
 
 ### Backend
 
@@ -71,9 +72,9 @@ Meu objetivo é transformar conhecimento em projetos reais, escrever código org
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-### ⚖️ LawFirm Management
+### LawFirm Management
 
 Sistema de gerenciamento desenvolvido com foco em **backend e desenvolvimento de aplicações web**, utilizando tecnologias do ecossistema Java.
 
@@ -93,7 +94,7 @@ Java • Spring Boot • REST API • SQL • PostgreSQL • JPA/Hibernate • S
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 ```text
 Java
@@ -107,12 +108,12 @@ Git & GitHub
 Docker
 Software Architecture
 Software Testing
-Application Security
+Cybersecurity
 ```
 
 ---
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 
 Busco oportunidades de **estágio e posições de entrada em desenvolvimento de software**, especialmente nas áreas de **Backend Development, Java, C, Python, APIs REST e Software Engineering**.
 
@@ -120,7 +121,7 @@ Tenho interesse em participar de equipes de desenvolvimento, aprender com profis
 
 ---
 
-## 📊 Minha evolução
+## Minha evolução
 
 Este GitHub registra minha jornada como desenvolvedora: desde os fundamentos de programação até a construção de aplicações completas.
 
@@ -128,7 +129,7 @@ Aqui você encontrará projetos acadêmicos, projetos pessoais e aplicações de
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Vamos nos conectar?
 
 **LinkedIn:** https://www.linkedin.com/in/anna-clara-de-medeiros-gonçalves-b6537a2ba?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
