@@ -13,17 +13,16 @@ Meu objetivo é transformar conhecimento em projetos reais, escrever código org
 ## Sobre mim
 
 *  Estudante de **Engenharia de Software no P2**
-*  Foco em **Backend Development**
+*  Foco em **Desenvolvimento Backend**
 *  Estudando e desenvolvendo aplicações com **Java**
 *  Experiência acadêmica e prática com **Python**
 *  Desenvolvimento de **REST APIs**
 *  Estudando **SQL e bancos de dados relacionais**
-*  Interesse em **Application Security, Authentication e Authorization**
-*  Praticando **Data Structures, Algorithms e Object-Oriented Programming**
+*  Praticando **Estruturas de Dados, Algoritmos e Programação Orientada a Objetos**
 *  Utilizando **Git e GitHub** para versionamento e colaboração
 *  Explorando **Docker** e ambientes de desenvolvimento
-*  Tenho um grande interesse em cybersecurity, começarei uma graduação em breve
-*  Em constante evolução em **Software Engineering e Backend Development**
+*  Tenho um grande interesse em **cibersegurança, começarei uma graduação em breve**
+*  Em constante evolução em **Engenharia de Software e Desenvolvimento Backend**
 
 ---
 
@@ -36,29 +35,29 @@ Meu objetivo é transformar conhecimento em projetos reais, escrever código org
 * C
 * Spring Boot
 * REST APIs
-* Object-Oriented Programming (OOP)
-* Authentication & Authorization
+* Programação Orientada a Objetos (POO)
+* Autenticação e Autorização
 * JWT
-* API development
+* Desenvolvimento de APIs
 
 ### Banco de Dados
 
 * SQL
 * PostgreSQL
 * MySQL
-* Relational Databases
-* Database Modeling
-* CRUD operations
+* Bancos de dados relacionais
+* Modelagem de Banco de Dados
+* Operações CRUD
 
 ### Desenvolvimento
 
-* Algorithms
-* Data Structures
-* Software Engineering
-* Clean Code
-* Exception Handling
-* Application Architecture
-* Software Testing
+* Algoritmos
+* Estruturas de Dados
+* Engenharia de Software
+* Código Limpo
+* Tratamento de exceções
+* Arquitetura de Aplicação
+* Testes de Software
 
 ### Ferramentas
 
@@ -76,22 +75,21 @@ Meu objetivo é transformar conhecimento em projetos reais, escrever código org
 
 ### LawFirm Management
 
-Sistema de gerenciamento desenvolvido com foco em **backend e desenvolvimento de aplicações web**, utilizando tecnologias do ecossistema Java.
+Sistema de gerenciamento para escritórios de advocacia, desenvolvido com foco em **backend e desenvolvimento de aplicações web**, utilizando tecnologias do ecossistema Java.
 
 **Tecnologias:**
 Java • Spring Boot • REST API • SQL • PostgreSQL • JPA/Hibernate • Spring Security • JWT • Maven • Docker
 
 **Conceitos aplicados:**
 
-* Backend Development
-* RESTful APIs
-* Authentication
-* Authorization
-* Database Persistence
-* Data Validation
-* Exception Handling
-* Software Architecture
-
+* Desenvolvimento de Backend
+* APIs RESTful
+* Autenticação
+* Autorização
+* Persistência em banco de dados
+* Validação de dados
+* Tratamento de exceções
+* Arquitetura de Software
 ---
 
 ## Atualmente estudando
@@ -102,19 +100,19 @@ C
 Spring Boot
 REST APIs
 SQL & PostgreSQL
-Object-Oriented Programming
-Data Structures & Algorithms
+Programação Orientada a Objetos (POO)
+Estruturas de Dados e Algoritmos
 Git & GitHub
 Docker
-Software Architecture
-Software Testing
+Arquitetura de Software
+Testes de Software
 ```
 
 ---
 
 ## Objetivo profissional
 
-Busco oportunidades de **estágio e posições de entrada em desenvolvimento de software**, especialmente nas áreas de **Backend Development, Java, C, Python, APIs REST e Software Engineering**.
+Busco oportunidades de **estágio e posições de entrada em desenvolvimento de software**, especialmente nas áreas de **Desenvolvimento Backend, Java, C, Python, APIs REST e Engenharia de Software**.
 
 Tenho interesse em participar de equipes de desenvolvimento, aprender com profissionais experientes e contribuir para a construção de soluções de software bem estruturadas, seguras e escaláveis.
 
