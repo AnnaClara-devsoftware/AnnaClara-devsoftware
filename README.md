@@ -125,7 +125,7 @@ Este GitHub registra minha jornada como desenvolvedora: desde os fundamentos de 
 Aqui você encontrará projetos acadêmicos, projetos pessoais e aplicações desenvolvidas para praticar conceitos de **Software Engineering, Backend Development, APIs, Databases, Security e Web Development**.
 
 ---
-
+```text
 +++======++++++++==++=++++++++++===========+====+===+============+=======+=====+======++=--=+=++#*++=
 ==+=======++++=++=+===++++++=+++===========+====++**++===========+========-====+=-+====+++++++***++=*
 =+======+=+*+++*+=++=+++++++=+++========+==+====++*++======++=+==+======----*+==----=+==+*#*++---++==
@@ -202,7 +202,7 @@ Aqui você encontrará projetos acadêmicos, projetos pessoais e aplicações de
 ++=++++++++**++++++++++++==+++++*+++++++**+*++++**+*++***++*+****##%%##%%%*##*#***#*+*****##%#%#+*%*+
 +++=+++==++++=======++++=+==++++*++++++++*++++*+*+++**++++++++++++***#++*%%#****%%*++*****#%#%@%+*#%#
 ==++=+++===+++++++=+==++==++++++=++++=+==++***+++++++***+++++++++***++*###*%#*###**+*+*****%%%%@+*%@%
-
+```
 ---
 
 ## Vamos nos conectar?
