@@ -108,7 +108,6 @@ Git & GitHub
 Docker
 Software Architecture
 Software Testing
-Cybersecurity
 ```
 
 ---
